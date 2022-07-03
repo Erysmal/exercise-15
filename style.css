@@ -1,0 +1,140 @@
+body {
+  height: 3000px;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.field {
+  height:50px;
+}
+.s-button {
+  background-color:black;
+  color:white;
+  font-size:14px;
+  padding-left:7px;
+  padding-right:7px;
+  padding-bottom:3px;
+  padding-top:2px;
+  border-radius:10px;
+  border-style: none;
+  position: absolute;
+  top:20px;
+  right:20px;
+}
+.Erysbrand-container {
+  width:100%;
+  background-color:;
+  position:relative;
+  display: inline-block;
+}
+.Erys-brand {
+  display: inline-block;
+  margin-left:15px;
+  height:250px;
+  width: 300px;
+  background-color: #818282d6 ;
+  position: relative;
+  
+}
+.Erysbrand-2nd {
+  display: inline-block;
+  margin-left:15px;
+  height:250px;
+  width:300px;
+  background-color:#818282d6;
+  position: relative;
+}
+.white-overlay {
+  background-color:white;
+  opacity:0.8;
+  position: absolute;
+  bottom:0;
+  right: 0;
+  left: 0;
+  top:170px;
+}
+ button {
+}
+.buttonss {
+  background-color:white;
+  color: black;
+  padding-left:6px;
+  padding-right:6px;
+  padding-top:4px;
+  padding-bottom:4px;
+  border-style: solid;
+  border-width:1px;
+  border-color:black;
+  font-size:140x;
+  font-weight: 400;
+  position:absolute;
+  bottom:33px;
+  right:35%;
+  left:35% ;
+  
+}
+.discount-text {
+  background-color: black;
+  color: white;
+  font-size:13px;
+  
+  padding-top:4px;
+  padding-bottom:4px;
+  padding-right:7px;
+  padding-left:7px;
+  position:absolute;
+  right:0px;
+  top: 10px;
+}
+.exercise {
+  color: black;
+}
+.exercise-fixed {
+  position: fixed;
+  bottom:250px;
+  right:15px;
+}
+.Erysbrand-clothing {
+  width:270px;
+  height:200px;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  bottom:20px;
+}
+.bottom-fixed-container {
+  width:320px;
+  height:180px;
+  background-color:#27292a;
+  position:fixed;
+  bottom:10px;
+  right:10px;
+}
+.buttom {
+ background-color:black;
+  color:white;
+  font-size:14px;
+  padding-left:7px;
+  padding-right:7px;
+  padding-bottom:3px;
+  padding-top:2px;
+  border-radius:10px;
+  border-style: none;
+  position: absolute;
+  top:-5px;
+  left:-5px;
+}
+.time-stamp {
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom:8px;
+  right:8px;
+  font-size:14px;
+  padding-left:4px;
+  padding-right:4px;
+  padding-bottom:2px;
+  padding-top:2px;
+}
